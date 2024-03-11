@@ -18,11 +18,6 @@ public class Pres22 {
         Class cDao=Class.forName(daoClassName);
         IDao dao=(IDao) cDao.newInstance();// new DoaImpl()
 
-
-
-
-
-
         // MetierImpl metier= new MetierImpl(); //statique
         System.out.println("Donner la class de la couche METIER :");
         String metierClassname =scanner.nextLine();

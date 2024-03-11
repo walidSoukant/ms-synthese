@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd49987a-a763-4443-b8f8-5c877defe2bf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pres/Pres2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pres/Pres2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pres/Pres22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pres/Pres22.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +24,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenRunner">
     <option name="jreName" value="17" />
@@ -60,7 +60,7 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/walid/IdeaProjects/tp1",
+    "last_opened_file_path": "C:/Users/walid/IdeaProjects/IOS-enset/Captures",
     "onboarding.tips.debug.path": "C:/Users/walid/IdeaProjects/IOS-enset/src/main/java/org/example/Main.java",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   },
@@ -74,6 +74,9 @@
     <key name="CreateClassDialog.RecentsKey">
       <recent name="Dao" />
       <recent name="metier" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\walid\IdeaProjects\IOS-enset\Captures" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="pres" />
